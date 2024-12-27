@@ -1,6 +1,8 @@
-# MsCafe ☕️
+# ScCafe ☕️
 
-MsCafe was founded with a simple mission: to serve the best coffee in town. Our passion for quality beans and expert brewing techniques has made us a favorite among coffee enthusiasts. We source our beans from sustainable farms around the world, ensuring that every cup of coffee you enjoy is not only delicious but also ethically produced.
+         
+          Since its inception in 2020, ScCafe has been committed to providing the finest coffee experience. Our focus on exceptional beans and precision brewing has helped us build a strong community of coffee enthusiasts. We take pride in sourcing our beans from environmentally conscious farms across the globe, ensuring that every cup you enjoy is not only full of flavor but also ethically sourced and sustainable.
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -14,7 +16,7 @@ MsCafe was founded with a simple mission: to serve the best coffee in town. Our 
 
 ## Project Overview
 
-MsCafe is a web application that offers an elegant, user-friendly interface for browsing our extensive coffee menu, placing online orders, and learning about our sustainably sourced beans. Whether you’re looking to order your favorite brew or learn more about coffee origins, MsCafe provides an excellent user experience for every coffee lover.
+ScCafe is a web application that offers an elegant, user-friendly interface for browsing our extensive coffee menu, placing online orders, and learning about our sustainably sourced beans. Whether you’re looking to order your favorite brew or learn more about coffee origins, ScCafe provides an excellent user experience for every coffee lover.
 
 ## Features
 - **Browse Menu:** Explore our coffee varieties with detailed descriptions and pricing.
@@ -41,10 +43,10 @@ Follow the steps below to set up the project locally:
 #### Step 1: Clone the repository
 ```bash
 # Clone the MsCafe repository
-git clone https://github.com/your-username/ms-cafe.git
+git clone https://github.com/your-username/sc-cafe.git
 
 # Navigate into the project directory
-cd ms-cafe
+cd sc-cafe
  # Install the required npm packages
 npm install
 # Start the React development server
@@ -69,11 +71,11 @@ We welcome contributions! Follow the steps below to contribute to this project:
 ```
 ```bash
 # Clone the forked repository to your local machine
-git clone https://github.com/your-username/ms-cafe.git
+git clone https://github.com/your-username/sc-cafe.git
 ```
 ```bash
 # Navigate into the project directory
-cd ms-cafe
+cd sc-cafe
 ```
 ```bash
 #install dependencies
