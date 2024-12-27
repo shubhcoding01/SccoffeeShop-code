@@ -64,9 +64,9 @@ Once the server is running, you can view the app at (http://localhost:3000).
 
 ## ScreenShots:
 ## **Home Page:** 
-([Screenshot 2024-12-27 111616.png](https://github.com/shubhcoding01/SccoffeeShop-code/blob/main/Screenshot%202024-12-27%20111616.png?raw=true))
+!([Screenshot 2024-12-27 111616.png](https://github.com/shubhcoding01/SccoffeeShop-code/blob/main/Screenshot%202024-12-27%20111616.png?raw=true))
 ## **Coffee Menu:**
-([Screenshot 2024-12-27 111725.png](https://github.com/shubhcoding01/SccoffeeShop-code/blob/main/Screenshot%202024-12-27%20111725.png?raw=true))
+!([Screenshot 2024-12-27 111725.png](https://github.com/shubhcoding01/SccoffeeShop-code/blob/main/Screenshot%202024-12-27%20111725.png?raw=true))
 ## Contributing
 We welcome contributions! Follow the steps below to contribute to this project:
 ```bash
