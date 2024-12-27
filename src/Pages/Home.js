@@ -146,7 +146,7 @@ function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Welcome to MsCafe
+          Welcome to ScCafe
         </Title>
         <Subtitle
           initial={{ opacity: 0, y: -30 }}
