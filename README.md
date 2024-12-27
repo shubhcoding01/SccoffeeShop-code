@@ -64,9 +64,9 @@ Once the server is running, you can view the app at (http://localhost:3000).
 
 ## ScreenShots:
 ## **Home Page:** 
-![Screenshot 2024-12-27 111616]
+![Screenshot 2024-12-27 111616](Screenshot 2024-12-27 111616.png)
 ## **Coffee Menu:**
-![Screenshot 2024-12-27 111725]
+![Screenshot 2024-12-27 111725](Screenshot 2024-12-27 111725.png)
 ## Contributing
 We welcome contributions! Follow the steps below to contribute to this project:
 ```bash
