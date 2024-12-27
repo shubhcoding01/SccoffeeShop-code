@@ -1,7 +1,10 @@
 # ScCafe ☕️
 
          
-          Since its inception in 2020, ScCafe has been committed to providing the finest coffee experience. Our focus on exceptional beans and precision brewing has helped us build a strong community of coffee enthusiasts. We take pride in sourcing our beans from environmentally conscious farms across the globe, ensuring that every cup you enjoy is not only full of flavor but also ethically sourced and sustainable.
+          Since its inception in 2020, ScCafe has been committed to providing the finest coffee experience. 
+          Our focus on exceptional beans and precision brewing has helped us build a strong community of coffee enthusiasts. 
+          We take pride in sourcing our beans from environmentally conscious farms across the globe, 
+          ensuring that every cup you enjoy is not only full of flavor but also ethically sourced and sustainable.
 
 
 ## Table of Contents
@@ -16,7 +19,7 @@
 
 ## Project Overview
 
-ScCafe is a web application that offers an elegant, user-friendly interface for browsing our extensive coffee menu, placing online orders, and learning about our sustainably sourced beans. Whether you’re looking to order your favorite brew or learn more about coffee origins, ScCafe provides an excellent user experience for every coffee lover.
+ScCafe is a web application that offers an elegant, user-friendly interface for browsing our extensive coffee menu, placing online orders, and learning about our sustainably sourced beans.Whether you’re looking to order your favorite brew or learn more about coffee origins, ScCafe provides an excellent user experience for every coffee lover.
 
 ## Features
 - **Browse Menu:** Explore our coffee varieties with detailed descriptions and pricing.
